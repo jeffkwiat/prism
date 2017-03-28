@@ -1,0 +1,40 @@
+k Distinct Integers With Target Sum
+-----------------------------------
+
+The goal of this question is to produce, in Python,
+an algorithm that given a list of integers prints k distinct integers that
+form the target sum.
+
+The input is a text file that should be read by your program, and has the
+following format:
+
+3
+51
+7
+3
+6
+10
+43
+54
+2
+
+where the first line in the file is k, the second line is the target sum,
+and the rest of the lines are the potential integers to be summed.
+
+In the above example, your program should find the 3 numbers:
+
+6
+43
+2
+
+because they are distinct and add up to 51. The order of the numbers found is
+irrelevant.
+
+This question has two parts:
+
+1. Implement a brute-force solution. What's the running time of this solution,
+   as a function of n and k, where n in the length of the input set?
+
+2. Implement a more time efficient solution - ideally a solution with lowest
+   possible running time. What's the running time of your solution? Do you
+   think it's possible to do better? Why or why not?
