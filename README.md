@@ -1,5 +1,7 @@
 # KSums and Salesman Problems
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/055c5060-4500-4f69-804c-8a443dd10146.svg?orgId=498499820349)](https://app.soluble.cloud/repos/details/github.com/jeffkwiat/prism?orgId=498499820349)  
+
 ## How to Install
     git clone https://github.com/jeffkwiat/prism.git
     cd prism
